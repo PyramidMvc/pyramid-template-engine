@@ -12,6 +12,7 @@
 namespace Pyramid;
 
 
+use Pyramid\Response;
 use Pyramid\AntiXSS;
 use Pyramid\Services\CsrfService;
 
